@@ -1,1 +1,2 @@
-# Simulation-of-Hodgkin-Huxley-Model-Using-MATLAB
+# Simulation of Hodgkin-Huxley model using MATLAB
+The action potential is defined as the signal transmitted during an axon. The axon is a section of a neuron that carries nerve impulses outside the body and allows nerve cells to communicate. The Hodgkin-Huxley model is used to describe how action potentials in neurons are initiated and propagated. In our analysis, we simulated the Hodgkin-Huxley model with MATLAB.
